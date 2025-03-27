@@ -18,3 +18,9 @@ Implementation:
 Impulse response (for above):
 ![gornoprzep_impuls](https://github.com/user-attachments/assets/31df8c90-3343-4855-a212-5fdedeb8bee2)
 
+The rest of examples (bandpass, bandstop filters). My project included also comparision for different windows used in digital signal processing.
+![pasmozaporowy_wlasny](https://github.com/user-attachments/assets/b79c111c-0a01-4591-8284-761fc4032483)
+
+![pasmowoprzep_wlasny_2](https://github.com/user-attachments/assets/b561768c-d730-4231-a894-92f7087a45ec)
+
+![pokaz8](https://github.com/user-attachments/assets/0bdf72c4-6445-4d32-b5d2-f888bd56c728)
